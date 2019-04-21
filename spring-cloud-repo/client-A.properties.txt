@@ -1,1 +1,1 @@
-hello.message=Hello from Client A
+hello.message=Hello from Client Guruprasad
